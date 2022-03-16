@@ -1,5 +1,4 @@
-![ropybetter](https://user-images.githubusercontent.com/100964758/158695522-5e205aea-abb1-4ede-b591-85f03de82447.png)
-
+![image](https://user-images.githubusercontent.com/100964758/158695861-b821b70e-4cf9-4d0e-98ba-1513a5c8cea0.png)
 ## Examples
 ### Check 🍪
 It use's the balance method to check or authorize account validity
