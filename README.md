@@ -1,5 +1,5 @@
 # RoPy
-Fast & Simple
+Fast & Very Simple
 
 ## Examples
 ### Check 🍪
